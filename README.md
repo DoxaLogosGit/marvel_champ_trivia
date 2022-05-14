@@ -20,5 +20,5 @@ Questions like:
 The list above is not exhaustive, but will provide a good jumping off point as more questions are added. The interface will allow a user to customize how many and what kind of questions they would like generated.
 
 This project will be a library only that will hopefully be integrated into other projects like a trivia bot for Discord or a simple web app.
-
- The first phase of the project will focus on the player cards.  Once that is well tested and working, the next phase will bring villain cards into the mix.
+ 
+The first phase of the project will focus on the player cards.  Once that is well tested and working, the next phase will bring villain cards into the mix.
